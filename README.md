@@ -17,6 +17,17 @@ src/main/java/com/example/demo/DemoController.java
 http://localhost:8080/
 
 # Git
+
+GitHub - create bare repo
+https://github.com/new
+
 git init
 git add .
-git commit -m "initial commit"
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/qetuop/SpringBootSkeleton.git
+git push -u origin master
+
+
+# to use
+git clone https://github.com/qetuop/SpringBootSkeleton.git  SpringBootSkeleton
