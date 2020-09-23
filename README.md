@@ -16,14 +16,14 @@ f. Dependencies = Spring Web
 GitHub - create bare repo
 https://github.com/new
 
-'''
+```
 git init
 git add .
 git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/qetuop/SpringBootSkeleton.git
 git push -u origin master
-'''
+```
 
 # Clone
 git clone https://github.com/qetuop/SpringBootSkeleton.git  SpringBootSkeleton
